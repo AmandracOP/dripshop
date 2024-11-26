@@ -39,7 +39,7 @@ DripShop is a modern e-commerce platform specializing in fashion and apparel. Bu
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/dripshop.git
+git clone https://github.com/AmandracOP/dripshop.git
 ```
 
 2. Navigate to the project directory:
@@ -128,8 +128,8 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Contact
 
-Geetesh - [Your Email]
-Project Link: [https://github.com/yourusername/dripshop](https://github.com/yourusername/dripshop)
+Navya - []
+Project Link: [https://github.com/AmandracOP/dripshop](https://github.com/AmandracOP/dripshop)
 
 ## Acknowledgments
 
